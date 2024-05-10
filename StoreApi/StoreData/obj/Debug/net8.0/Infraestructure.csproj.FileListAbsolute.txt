@@ -1,0 +1,17 @@
+V:\Personal\challenges\Store\StoreApi\StoreData\bin\Debug\net8.0\Infraestructure.deps.json
+V:\Personal\challenges\Store\StoreApi\StoreData\bin\Debug\net8.0\Infraestructure.runtimeconfig.json
+V:\Personal\challenges\Store\StoreApi\StoreData\bin\Debug\net8.0\Infraestructure.dll
+V:\Personal\challenges\Store\StoreApi\StoreData\bin\Debug\net8.0\Infraestructure.pdb
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.dll
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\refint\Infraestructure.dll
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.pdb
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\ref\Infraestructure.dll
+V:\Personal\challenges\Store\StoreApi\StoreData\bin\Debug\net8.0\Domain.dll
+V:\Personal\challenges\Store\StoreApi\StoreData\bin\Debug\net8.0\Domain.pdb
+V:\Personal\challenges\Store\StoreApi\StoreData\obj\Debug\net8.0\Infraest.B0D41582.Up2Date

@@ -1,0 +1,15 @@
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.AssemblyInfo.cs
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+V:\Personal\challenges\Store\StoreApi\StoreServices\bin\Debug\net8.0\Application.deps.json
+V:\Personal\challenges\Store\StoreApi\StoreServices\bin\Debug\net8.0\Application.dll
+V:\Personal\challenges\Store\StoreApi\StoreServices\bin\Debug\net8.0\Application.pdb
+V:\Personal\challenges\Store\StoreApi\StoreServices\bin\Debug\net8.0\Domain.dll
+V:\Personal\challenges\Store\StoreApi\StoreServices\bin\Debug\net8.0\Domain.pdb
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.dll
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\refint\Application.dll
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\Application.pdb
+V:\Personal\challenges\Store\StoreApi\StoreServices\obj\Debug\net8.0\ref\Application.dll

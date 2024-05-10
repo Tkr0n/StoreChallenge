@@ -1,0 +1,12 @@
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+V:\Personal\challenges\Store\StoreApi\StoreEntities\bin\Debug\net8.0\Domain.deps.json
+V:\Personal\challenges\Store\StoreApi\StoreEntities\bin\Debug\net8.0\Domain.dll
+V:\Personal\challenges\Store\StoreApi\StoreEntities\bin\Debug\net8.0\Domain.pdb
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.dll
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\refint\Domain.dll
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\Domain.pdb
+V:\Personal\challenges\Store\StoreApi\StoreEntities\obj\Debug\net8.0\ref\Domain.dll
